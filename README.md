@@ -5,7 +5,7 @@ Repositório para realização dos exercícios propostos pela vaga
 # FLASK
 # SELENIUM
 
-## É necess￿ário executar o requirements
-### pip3 -r install requirements.txt
+## É necessário executar o requirements
+### pip3 install -r requirements.txt
 
 
